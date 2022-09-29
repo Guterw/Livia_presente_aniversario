@@ -1,0 +1,27 @@
+.mindset{
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.hjet{
+    font-size: 90px;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: 100;
+    text-align: center;
+    text-decoration: overline;
+    margin-top: -3px;
+}
+
+.footer{
+    text-align: center;
+    margin-top: 50px;
+    font-size: larger;
+}
+
+.owl-carousel{
+    margin-top: -50px;
+}
+
+.pi{
+    text-align: center;
+}
